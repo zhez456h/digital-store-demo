@@ -1,0 +1,14 @@
+{
+  "/about": "about__index.html",
+  "/auth/forgot": "auth__forgot__index.html",
+  "/auth/login": "auth__login__index.html",
+  "/auth/register": "auth__register__index.html",
+  "/blog": "blog__index.html",
+  "/cart": "cart__index.html",
+  "/guest/orders": "guest__orders__index.html",
+  "/": "index.html",
+  "/notice": "notice__index.html",
+  "/privacy": "privacy__index.html",
+  "/products": "products__index.html",
+  "/terms": "terms__index.html"
+}
